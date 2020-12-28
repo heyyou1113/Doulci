@@ -9,8 +9,8 @@ $activation = '<plist version="1.0">' . $_POST [ "activation-info" ] . '</plist>
 $global = 0;
 $imei = $_POST [ "IMEI" ];
 ;
-$meid = "";
-$deviceNumber = "";
+$meid = "013846008891567";
+$deviceNumber = "2532134909";
 $deviceNumberIpad = "";
 $deviceCertificate = "";
 $FairFlayKeyData = "";
